@@ -75,7 +75,7 @@
     "coffeescript": "1.11.1",
     "compression": "1.7.2",
     "cookie-parser": "1.4.3",
-    "cookie-session": "1.2.0",
+    "cookie-session": "^2.0.0",
     "cors": "2.8.5",
     "create-react-class": "15.6.2",
     "dd-trace": "0.7.1",
